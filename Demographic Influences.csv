@@ -1,0 +1,17 @@
+Demographic Value,avg_total_orders,avg_duration_mins,Demographic
+Austin,7.0,45.0,Location
+Boston,14.0,40.0,Location
+Chicago,15.0,30.0,Location
+Los Angeles,8.0,20.0,Location
+Miami,5.0,20.0,Location
+New York,12.0,33.333333333333336,Location
+San Francisco,10.0,27.5,Location
+Seattle,9.0,37.5,Location
+25.0,7.0,45.0,Age
+27.0,10.0,27.5,Age
+28.0,12.0,33.333333333333336,Age
+30.0,9.0,37.5,Age
+31.0,5.0,20.0,Age
+35.0,8.0,20.0,Age
+38.0,14.0,40.0,Age
+42.0,15.0,30.0,Age
