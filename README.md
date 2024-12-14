@@ -13,5 +13,6 @@ summarizing your findings and business recommendations.
 
 
 **Conclusion and Business Recommendations**
+
 Key Insights: Users engaged in cooking sessions are more likely to order frequently. Grilled Chicken and Spaghetti are top choices.
 Recommendations: Target promotions for popular dishes and focus marketing efforts on high-order locations like Boston and Chicago. Consider age-specific campaigns to boost engagement.
